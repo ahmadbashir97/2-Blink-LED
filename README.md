@@ -13,4 +13,6 @@ Part Needed:
 
 3) Arduino Uno
 
+This is very simple project and I hope you guys can try it!!
+
 
